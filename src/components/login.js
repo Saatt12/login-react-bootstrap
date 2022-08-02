@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Container, NavLink, Row } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import descarga from './descarga.png' 
+
 
 
 export default function Login() {
